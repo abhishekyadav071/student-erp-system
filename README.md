@@ -98,6 +98,8 @@ erp-system/
 
 ---
 
+---
+
 ## 🧪 API Testing
 
 All backend APIs are tested using **Postman**. Authentication uses JWT tokens for protected routes.
@@ -112,9 +114,9 @@ Contributions are welcome! Feel free to fork this repo, open issues, or submit p
 
 ## 📬 Contact
 
-**Pratap Majge**  
-📧 [pratap.majge@example.com](mailto:pratap.majge@example.com)  
-🌐 [LinkedIn](https://linkedin.com/in/pratapmajge)
+**Abhishek Yadav**  
+📧 [abhishekyadavr28@gmail.com](mailto:abhishekyadavr28@gmail.com)  
+🌐 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
 
 ---
 
